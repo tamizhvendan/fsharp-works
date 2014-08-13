@@ -1,0 +1,6 @@
+http://nerd.kelseyinnis.com/blog/2013/01/07/resources-for-getting-started-with-functional-programming-and-scala/
+
+http://www.slideshare.net/kelseyinnis/learning-functional-programming-without-growing-a-neckbeard
+
+Functional Programming Excersises - http://www.cis.upenn.edu/~cis194/lectures.html
+

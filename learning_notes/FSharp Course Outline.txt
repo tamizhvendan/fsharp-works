@@ -1,0 +1,43 @@
+* Functions
+  - Func Declaration
+
+* Type Inference
+  - Example with no type specified
+
+* Partial Applications
+  - inc
+
+* Composition
+  - >> and << operators
+  - square >> add means squareAndAdd
+  - square << add means addAndSquare
+
+* Pipe Forwarding
+  - Composition - Martin Fowler (http://martinfowler.com/articles/collection-pipeline/)
+
+* Tuples and Pattern Matching
+  - Pattern Matching Series 
+    => http://www.devjoy.com/series/active-patterns/
+    => http://fsharpforfunandprofit.com/posts/match-expression/
+
+* Immutable Data Strcutures
+  - alphabet creation 
+    => 'a' :: 'b' :: 'c' :: ['d'..'v'] @ ['w'..'z']
+
+* Quick Check
+  - Use FsCheck
+
+* Algebraic Data Types
+  - type tree =
+      | Leaf of int
+      | Node of tree * tree
+
+* Option
+  - Divide by Zero example
+
+* Actor Model Concurrency
+  - Actor Ping
+
+* Type Providers
+  - Movie Ratings
+
