@@ -4,3 +4,14 @@ http://www.slideshare.net/kelseyinnis/learning-functional-programming-without-gr
 
 Functional Programming Excersises - http://www.cis.upenn.edu/~cis194/lectures.html
 
+https://skillsmatter.com/conferences/1886-progressive-f-tutorials-nyc-2014#program
+
+
+
+Functional Programming Courses
+------------------------------
+
+* http://www.seas.upenn.edu/~cis194/spring13/lectures.html
+
+* http://undergraduate.csse.uwa.edu.au/units/CITS3242/
+
